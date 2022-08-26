@@ -20,7 +20,7 @@ inputs = {
     resource = "lab"
   }
   resource_group = "terragrunt-lab"
-  region = local.dev_region_vars.locals.dev_region
+  region = local.dev_region_vars.locals.region
 }
 
 locals {

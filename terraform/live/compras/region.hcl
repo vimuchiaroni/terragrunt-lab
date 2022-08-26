@@ -1,3 +1,3 @@
 locals {
-    dev_region = "westus"
+    region = "westus"
 }
